@@ -25,7 +25,13 @@
 3. 디스코드 봇 토큰이 작성된 token.txt를 생성합니다.
 4. timeout.py를 실행하면 봇이 작동하는 것을 확인할 수 있습니다. (단, 관리자 권한을 가진 사람을 대상으로는 타임아웃이 적용되지 않음)
 
-![image](https://github.com/user-attachments/assets/0525b99a-199e-46f7-83c5-93d780d3ee7f)
+
+
+## 실험 결과
+성공적!
+![image](https://github.com/user-attachments/assets/e6af329c-acb1-4dfa-aa7a-85c1438bb950)
+![image](https://github.com/user-attachments/assets/1f1b0707-a682-450b-a622-71c3ffb1e7e2)
+
 
 
 
