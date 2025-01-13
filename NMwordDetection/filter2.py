@@ -53,7 +53,7 @@ class filter2():
                'xo':'쏘쏘', 'ri':'리리', 'ry':'리리', 'r1':'리리', 'ㄹ1':'리리', 'oh':'오오', 'wo':'오오',
               '소우':'소소'}
         three = {'yeo':'ㅕㅕㅕ', 'yae':'ㅐㅐㅐ', 'wae':'ㅙㅙㅙ', 'sou':'소소소', 'xou':'소소소', 'rry':'리리리',
-                'rui':'리리리', 'bad':'배배배', 'ger':'거거거'}
+                'rui':'리리리', 'bad':'밷밷밷', 'ger':'저저저'}
         sentence = sentence.lower()
         for i in range(0, len(sentence)):
             if i <= len(sentence)-3:
